@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <i>An NWO-funded project with a 2.1 million Euro budget that combines technical and legal methods to translate AI regulation – like the EU GDPR and AI Act – into practice.</i>
+subtitle: <i>An NWO-funded project with a 2.1 million Euro budget applying technical methods to the law with the aim of making the EU's ambitious AI regulation – particularly the GDPR and AI Act – work in practice.</i>
 
 profile:
   align: right
-  image: logo.webp
+  image: logo.png
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>Prompt: Visualize a logo that portrays a pathway, symbolizing the journey from AI innovation to regulatory compliance. This path should start from a stylized AI icon, winding its way through a series of legal symbols (like a document with a seal, a gavel) and leading to a harmonious coexistence symbol represented by a perfectly balanced scale embedded within a digital landscape. Use a color scheme that conveys clarity and optimism, such as light blues and greens.</p>
@@ -44,25 +44,25 @@ profiles:
       Kamil Szostak<br>
       PhD Student
   - align: center
-    image: you.webp
+    image: you.png
     image_circular: true # crops the image to make it circular
     more_info: >
       You?<br>
       PhD Student
   - align: center
-    image: you.webp
+    image: you.png
     image_circular: true # crops the image to make it circular
     more_info: >
       You?<br>
       PhD Student
   - align: center
-    image: you.webp
+    image: you.png
     image_circular: true # crops the image to make it circular
     more_info: >
       You?<br>
       PhD Student
   - align: center
-    image: you.webp
+    image: you.png
     image_circular: true # crops the image to make it circular
     more_info: >
       You?<br>
