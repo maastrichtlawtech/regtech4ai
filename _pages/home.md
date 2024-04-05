@@ -69,6 +69,7 @@ profiles:
       PhD Student
 ---
 
+**You can follow the project updates by subscribing to our Substack: <https://regtech4ai.substack.com/>**
 
 The General Data Protection Regulation (GDPR) is a conerstone of the regulation of AI in the EU. It seeks to facilitate the flow of data across the EU while protecting citizens’ fundamental rights – including data protection and privacy. Even though the GDPR is now more than 7 years old, there remain significant gaps between the law and practice. For example, past research by the project lead showed that less than 10% of mobile apps fulfil the minimum legal requirements regarding *consent* – one of the core principles of GDPR.
 
