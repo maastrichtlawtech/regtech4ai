@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Award of the project!
+Award of the project! Press release [here](http://ained.nl/en/vijf-nieuwe-toekenningen-ained-fellowship-grants-voor-behoud-ai-talent-voor-nederland/).
