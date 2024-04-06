@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <i>An NWO-funded project with a 2.1 million Euro budget applying technical methods to the law with the aim of making the EU's ambitious AI regulation – particularly the GDPR and AI Act – work in practice.</i>
+subtitle: <i>An NGF-funded project with a 2.1 million Euro budget applying technical methods to the law with the aim of making the EU's ambitious AI regulation – particularly the GDPR and AI Act – work in practice.</i>
 
 profile:
   align: right
