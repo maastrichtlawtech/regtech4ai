@@ -42,12 +42,12 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Kamil Szostak<br>
-      PhD Student
+      PhD Student#
   - align: center
-    image: you.png
+    image: bram.jpg
     image_circular: true # crops the image to make it circular
     more_info: >
-      You?<br>
+      Bram Rijsbosch<br>
       PhD Student
   - align: center
     image: you.png
