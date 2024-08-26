@@ -50,10 +50,10 @@ profiles:
       Bram Rijsbosch<br>
       PhD Student
   - align: center
-    image: you.png
+    image: lucas.jpg
     image_circular: true # crops the image to make it circular
     more_info: >
-      You?<br>
+      Lucas Giovanni Uberti-Bona Marin<br>
       PhD Student
   - align: center
     image: you.png
