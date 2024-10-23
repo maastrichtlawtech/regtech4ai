@@ -32,6 +32,12 @@ profiles:
       Gijs van Dijck<br>
       Professor of Private Law
   - align: center
+    image: jerry.jpg
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      Jerry Spanakis<br>
+      Assistant Professor in Machine Learning
+  - align: center
     image: qian.jpg
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -54,12 +60,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Lucas Giovanni Uberti-Bona Marin<br>
-      PhD Student
-  - align: center
-    image: you.png
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      You?<br>
       PhD Student
   - align: center
     image: you.png
