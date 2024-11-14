@@ -24,7 +24,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Konrad Kollnig<br>
-      Project Lead, Assistant Professor in CS and Law
+      Project Lead, Assistant Professor CS/Law
   - align: center
     image: gijs.jpg
     image_circular: true # crops the image to make it circular
@@ -36,7 +36,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Johanna T. Gunawan<br>
-      Assistant Professor in CS, HCI and Law
+      Assistant Professor in CS/HCI/Law
   - align: center
     image: jerry.jpg
     image_circular: true # crops the image to make it circular
