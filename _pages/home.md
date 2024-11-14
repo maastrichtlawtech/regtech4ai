@@ -24,7 +24,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Konrad Kollnig<br>
-      Project Lead, Assistant Professor
+      Project Lead, Assistant Professor in CS and Law
   - align: center
     image: gijs.jpg
     image_circular: true # crops the image to make it circular
@@ -32,11 +32,17 @@ profiles:
       Gijs van Dijck<br>
       Professor of Private Law
   - align: center
+    image: johanna.jpg
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      Johanna T. Gunawan<br>
+      Assistant Professor in CS, HCI and Law
+  - align: center
     image: jerry.jpg
     image_circular: true # crops the image to make it circular
     more_info: >
       Jerry Spanakis<br>
-      Assistant Professor in Machine Learning
+      Assistant Professor in NLP and Law
   - align: center
     image: qian.jpg
     image_circular: true # crops the image to make it circular
@@ -60,12 +66,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Lucas Giovanni Uberti-Bona Marin<br>
-      PhD Student
-  - align: center
-    image: you.png
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      You?<br>
       PhD Student
 ---
 
