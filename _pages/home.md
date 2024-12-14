@@ -87,9 +87,9 @@ The project team consists of a range of experienced researchers in the domain of
 
 {% if page.profiles %}
   <div class="container">
-    <div class="row">
+    <div class="row row-cols-5">
       {% for profile in page.profiles %}
-        <div class="col-md-3 mb-4">
+        <div class="col mb-4">
           {% if profile.image %}
             <div class="profile-image text-center">
               {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
