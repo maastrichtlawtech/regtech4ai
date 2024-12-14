@@ -38,6 +38,12 @@ profiles:
       Johanna T. Gunawan<br>
       Assistant Professor in CS/HCI/Law
   - align: center
+    image: marta.jpg
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      Marta Kołacz<br>
+      Assistant Professor in Law
+  - align: center
     image: jerry.jpg
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -66,6 +72,12 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       Lucas Giovanni Uberti-Bona Marin<br>
+      PhD Student
+  - align: center
+    image: you.png
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      You?<br>
       PhD Student
 ---
 
