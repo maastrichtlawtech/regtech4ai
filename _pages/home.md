@@ -95,7 +95,7 @@ To be prepared to respond to new AI challenges in the years ahead, we will also 
 
 ## team
 
-The project team consists of a range of experienced researchers in the domain of applying technical methods to the law (particular in machine learning and data science), one postdoc with interdisciplinary research expertise, and up to five PhD students.
+The project team consists of a range of experienced researchers in the domain of applying technical methods to the law (particular in machine learning and data science), one postdoc with interdisciplinary research expertise, and up to four PhD students.
 
 {% if page.profiles %}
   <div class="container">
